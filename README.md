@@ -1,4 +1,4 @@
-# HCIN-WeightSensingCoaster
+# Weight Sensing Coaster
 Repository for the files necessary to create a weight sensing coaster
 
 # What is this
